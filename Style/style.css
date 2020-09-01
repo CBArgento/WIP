@@ -38,10 +38,12 @@ section {
      -o-background-size: cover;
      border-radius: 0px;
      text-align: center;
+     width: 100%;
  }
 
- img {
+ #img1 {
      height: 60vh;
+     width: 100%;
  }
 
  #icons {
@@ -57,10 +59,15 @@ section {
  }
 
  .spacer {
-     padding: 20px;
+     padding: 35px;
  }
 
  #Name {
      font-weight: bold;
      font-size: 30px;
+ }
+
+ .cardtext {
+     padding-top: 90px;
+     padding-bottom: 10px;
  }
