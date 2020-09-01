@@ -29,7 +29,7 @@ section {
      text-align: center;
  }
 
- .jumbotron {
+ #FirstCard {
      background-image: src=("https://github.com/CBArgento/WIP/blob/master/Assets/logo.JPG?raw=true");
      height: 60vh;
      -webkit-background-size: cover;
@@ -37,6 +37,11 @@ section {
      background-size: cover;
      -o-background-size: cover;
      border-radius: 0px;
+     text-align: center;
+ }
+
+ img {
+     height: 60vh;
  }
 
  #icons {
