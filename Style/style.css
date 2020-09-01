@@ -80,6 +80,7 @@ section {
  .cardtext {
      padding-top: 180px;
      text-align: center;
+     position: fixed;
  }
 
  .footer {
