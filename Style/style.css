@@ -31,20 +31,31 @@ section {
 
  #FirstCard {
      background-image: src=("https://github.com/CBArgento/WIP/blob/master/Assets/logo.JPG?raw=true");
-     height: 60vh;
-     -webkit-background-size: cover;
-     -moz-background-size: cover;
-     background-size: cover;
-     -o-background-size: cover;
-     border-radius: 0px;
-     text-align: center;
      width: 100%;
  }
 
  #img1 {
-     height: 60vh;
+     position: relative;
+     height: 500px;
      width: 100%;
      position: fixed;
+ }
+
+ .hero-image{
+    position: relative;
+    height: 500px;
+    overflow: hidden;
+    background: url(..Assets/Developers.jpg) no-repeat center;
+    background-size: cover;
+ }
+
+ .container1{
+     position: absolute;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     overflow: hidden
+     text-align: center;
  }
 
  #icons {
