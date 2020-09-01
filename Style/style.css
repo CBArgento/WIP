@@ -32,6 +32,12 @@ section {
 
  }
 
+.card-title{
+    font-size: 68px;
+    font-weight: bold;
+    color:  black;
+}
+
  .cardtext {
     text-align: center;
     color: white;
