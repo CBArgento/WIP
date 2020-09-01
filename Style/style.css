@@ -32,6 +32,15 @@ section {
 
  }
 
+ .cardtext {
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    position: absolute;
+    left: 50%;
+    top: 40%;
+ }
+
  /*#img1 {
      position: relative;
      height: 500px;
@@ -47,14 +56,14 @@ section {
     background-size: cover;
  }*/
 
- .container1{
+ /*.container1{
      position: absolute;
      top: 20%;
      left: 50%;
      transform: translate(-50%, -50%);
      overflow: hidden
      text-align: center;
- }
+ }*/
 
  #icons {
     padding-right: 1em;
@@ -77,14 +86,7 @@ section {
      font-size: 30px;
  }
 
- .cardtext {
-    text-align: center;
-    color: white;
-    transform: translate(-50%,-50%);
-    position: absolute;
-    left: 50%;
-    top: 40%;
- }
+
 
  .footer {
     position: ;
