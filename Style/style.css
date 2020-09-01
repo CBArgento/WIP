@@ -33,10 +33,12 @@ section {
  }
 
 .card-title{
-    font-size: 68px;
+    font-size: 78px;
     font-weight: bold;
-    color:  black;
+    color:  white;
 }
+
+
 
  .cardtext {
     text-align: center;
@@ -45,6 +47,7 @@ section {
     position: absolute;
     left: 50%;
     top: 40%;
+    font-size: 30px;
  }
 
  /*#img1 {
