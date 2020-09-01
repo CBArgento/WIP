@@ -19,7 +19,7 @@ section {
  }
 
  #FirstCard {
-     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), src=("https://github.com/CBArgento/WIP/blob/master/Assets/logo.JPG?raw=true");
+     /*background-image: src=("https://github.com/CBArgento/WIP/blob/master/Assets/logo.JPG?raw=true");*/
      width: auto;
      height: auto;
      background-size: cover;
