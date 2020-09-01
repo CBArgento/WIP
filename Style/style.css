@@ -44,6 +44,7 @@ section {
  #img1 {
      height: 60vh;
      width: 100%;
+     position: fixed;
  }
 
  #icons {
