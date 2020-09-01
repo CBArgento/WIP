@@ -4,6 +4,7 @@
 
 #ContentTitle {
     text-align: center;
+    font-size: 48px;
 }
 
 section {
@@ -29,11 +30,27 @@ section {
  }
 
  .jumbotron {
-     background-image: url('/Assets/logo.JPG');
+     background-image: src=("https://github.com/CBArgento/WIP/blob/master/Assets/logo.JPG?raw=true");
      padding-top: 20%;
      padding-bottom: 20%;
      -webkit-background-size: cover;
      -moz-background-size: cover;
      background-size: cover;
      -o-background-size: cover;
+ }
+
+ #icons {
+    padding-right: 1em;
+ }
+ #iconsstyle {
+     text-align: center;
+     font-size: 60px;
+     color: #aaf683;
+     padding-top: 15px;
+     padding-bottom: 15px;
+     
+ }
+
+ .spacer {
+     padding: 20px;
  }
