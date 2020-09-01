@@ -78,9 +78,12 @@ section {
  }
 
  .cardtext {
-     padding-top: 180px;
-     text-align: center;
-     position: fixed;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    position: absolute;
+    left: 50%;
+    top: 50%;
  }
 
  .footer {
