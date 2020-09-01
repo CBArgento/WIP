@@ -31,12 +31,12 @@ section {
 
  .jumbotron {
      background-image: src=("https://github.com/CBArgento/WIP/blob/master/Assets/logo.JPG?raw=true");
-     padding-top: 20%;
-     padding-bottom: 20%;
+     height: 60vh;
      -webkit-background-size: cover;
      -moz-background-size: cover;
      background-size: cover;
      -o-background-size: cover;
+     border-radius: 0px;
  }
 
  #icons {
@@ -53,4 +53,9 @@ section {
 
  .spacer {
      padding: 20px;
+ }
+
+ #Name {
+     font-weight: bold;
+     font-size: 30px;
  }
