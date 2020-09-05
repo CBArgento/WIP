@@ -113,3 +113,19 @@ section {
     color: white;
     text-align: center;
  }
+
+
+ #MoreServices {
+     text-align: center;
+
+ } 
+
+ #FooterLogo {
+     text-align: left;
+     font-size: 30px;
+     font-weight: bold;
+ }
+
+ #FooterLogo2{
+     text-align: left;
+ }
