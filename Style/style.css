@@ -115,11 +115,17 @@ section {
  }
 
 
- #MoreServices {
+ #MoreServices1 {
+    text-align: center; 
     margin-left: auto;
     margin-right: auto;
     width: 100%;
-
+ } 
+ 
+ #MoreServices2 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
  } 
 
  #FooterLogo {
@@ -135,10 +141,13 @@ section {
  #iconsfooter {
     padding-right: 2em;
     text-align: center;
+    font-size: 30px;
+
  }
 
  #iconsfooter1 {
     padding-left: 1em;
     padding-right: 2em;
     text-align: center;
+    font-size: 30px;
  }
