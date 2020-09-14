@@ -152,7 +152,13 @@ section {
     font-size: 30px;
  }
 
- #more {
-    text-align: center;
+ #More {
+    align-items: center;
     color: lightblue;
+    font-size: 35px;
+
+ }
+
+ #Serviceslogos {
+     text-align: center;
  }
