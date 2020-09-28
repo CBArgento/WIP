@@ -164,3 +164,16 @@ section {
      text-align: center;
      
  }
+
+ .TitleOne {
+     color: blue;
+     font-size: x-large;
+     font-weight: bolder;
+     text-align: center;
+     font-size: 55px;
+ }
+
+ #titlesstyle {
+     padding-top: 25px;
+     font-family: 'Lobster', cursive;
+ }
