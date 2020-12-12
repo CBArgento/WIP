@@ -177,3 +177,21 @@ section {
      padding-top: 25px;
      font-family: 'Lobster', cursive;
  }
+
+ section1 {
+     background-color: gray;
+ }
+
+ #iimghost {
+     height: 50%;
+     text-align: center;
+ }
+
+ .bluegator {
+     text-align: center;
+     width: 60px;
+ }
+
+ .hosters {
+     text-align: center;
+ }
