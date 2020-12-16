@@ -195,3 +195,7 @@ section {
  .hosters {
      text-align: center;
  }
+
+ .divider {
+     padding: 20px;
+ }
