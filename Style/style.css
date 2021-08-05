@@ -178,7 +178,7 @@ section {
      font-family: 'Lobster', cursive;
  }
 
- section1 {
+ .section1 {
      background-color: gray;
  }
 
@@ -201,6 +201,6 @@ section {
  }
 
  #Title {
-    font-family: 'Monoton', cursive;
+    font-family: 'Source Code Pro', monospace;
     color: yellow;
  }
