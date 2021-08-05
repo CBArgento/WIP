@@ -199,3 +199,8 @@ section {
  .divider {
      padding: 20px;
  }
+
+ #Title {
+    font-family: 'Monoton', cursive;
+    color: yellow;
+ }
